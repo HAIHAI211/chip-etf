@@ -1168,324 +1168,324 @@
         percent: -1.75
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-09-09',
+        start: 1.071,
+        high: 1.072,
+        low: 1.028,
+        close: 1.030,
+        percent: -5.24
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-09-10',
+        start: 1.040,
+        high: 1.050,
+        low: 1.020,
+        close: 1.024,
+        percent: -0.58
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-09-11',
+        start: 1.021,
+        high: 1.060,
+        low: 1.019,
+        close: 1.056,
+        percent: 3.13
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-09-14',
+        start: 1.060,
+        high: 1.085,
+        low: 1.058,
+        close: 1.070,
+        percent: 1.33
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-09-15',
+        start: 1.072,
+        high: 1.088,
+        low: 1.053,
+        close: 1.076,
+        percent: 0.56
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-09-16',
+        start: 1.075,
+        high: 1.084,
+        low: 1.065,
+        close: 1.068,
+        percent: -0.74
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-09-17',
+        start: 1.067,
+        high: 1.099,
+        low: 1.056,
+        close: 1.087,
+        percent: 1.78
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-09-18',
+        start: 1.084,
+        high: 1.099,
+        low: 1.079,
+        close: 1.096,
+        percent: 0.83
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-09-21',
+        start: 1.097,
+        high: 1.117,
+        low: 1.095,
+        close: 1.098,
+        percent: 0.18
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-09-22',
+        start: 1.086,
+        high: 1.090,
+        low: 1.070,
+        close: 1.073,
+        percent: -2.28
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-09-23',
+        start: 1.075,
+        high: 1.089,
+        low: 1.067,
+        close: 1.083,
+        percent: 0.93
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-09-24',
+        start: 1.075,
+        high: 1.079,
+        low: 1.059,
+        close: 1.061,
+        percent: -2.03
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-09-25',
+        start: 1.062,
+        high: 1.069,
+        low: 1.048,
+        close: 1.052,
+        percent: -0.85
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-09-28',
+        start: 1.052,
+        high: 1.055,
+        low: 1.037,
+        close: 1.042,
+        percent: -0.95
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-09-29',
+        start: 1.047,
+        high: 1.066,
+        low: 1.047,
+        close: 1.058,
+        percent: 1.54
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-09-30',
+        start: 1.057,
+        high: 1.065,
+        low: 1.050,
+        close: 1.054,
+        percent: -0.38
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-10-09',
+        start: 1.067,
+        high: 1.089,
+        low: 1.067,
+        close: 1.084,
+        percent: 2.85
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-10-12',
+        start: 1.093,
+        high: 1.133,
+        low: 1.088,
+        close: 1.133,
+        percent: 4.52
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-10-13',
+        start: 1.130,
+        high: 1.130,
+        low: 1.113,
+        close: 1.128,
+        percent: -0.44
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-10-14',
+        start: 1.122,
+        high: 1.122,
+        low: 1.101,
+        close: 1.106,
+        percent: -1.95
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-10-15',
+        start: 1.106,
+        high: 1.118,
+        low: 1.097,
+        close: 1.098,
+        percent: -0.72
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-10-16',
+        start: 1.098,
+        high: 1.105,
+        low: 1.080,
+        close: 1.087,
+        percent: -1.00
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-10-19',
+        start: 1.089,
+        high: 1.095,
+        low: 1.072,
+        close: 1.074,
+        percent: -1.20
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-10-20',
+        start: 1.074,
+        high: 1.080,
+        low: 1.061,
+        close: 1.080,
+        percent: 0.56
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-10-21',
+        start: 1.079,
+        high: 1.079,
+        low: 1.043,
+        close: 1.050,
+        percent: -2.78
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-10-22',
+        start: 1.045,
+        high: 1.058,
+        low: 1.031,
+        close: 1.047,
+        percent: -0.29
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-10-23',
+        start: 1.044,
+        high: 1.057,
+        low: 1.024,
+        close: 1.027,
+        percent: -1.91
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-10-26',
+        start: 1.024,
+        high: 1.031,
+        low: 1.010,
+        close: 1.026,
+        percent: -0.10
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-10-27',
+        start: 1.021,
+        high: 1.031,
+        low: 1.014,
+        close: 1.029,
+        percent: 0.29
     },
     {
-        date: '2020-02-11',
+        date: '2020-10-28',
         start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        high: 1.035,
+        low: 1.014,
+        close: 1.032,
+        percent: 0.29
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-10-29',
+        start: 1.017,
+        high: 1.033,
+        low: 1.017,
+        close: 1.028,
+        percent: -0.39
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-10-30',
+        start: 1.034,
+        high: 1.078,
+        low: 1.033,
+        close: 1.053,
+        percent: 2.43
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-11-02',
+        start: 1.058,
+        high: 1.073,
+        low: 1.036,
+        close: 1.071,
+        percent: 1.71
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-11-03',
+        start: 1.073,
+        high: 1.098,
+        low: 1.067,
+        close: 1.088,
+        percent: 1.59
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-11-04',
+        start: 1.090,
+        high: 1.095,
+        low: 1.077,
+        close: 1.080,
+        percent: -0.74
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-11-05',
+        start: 1.093,
+        high: 1.102,
+        low: 1.078,
+        close: 1.092,
+        percent: 1.11
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-11-06',
+        start: 1.095,
+        high: 1.113,
+        low: 1.085,
+        close: 1.111,
+        percent: 1.74
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-11-09',
+        start: 1.126,
+        high: 1.209,
+        low: 1.126,
+        close: 1.197,
+        percent: 7.74
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-11-10',
+        start: 1.195,
+        high: 1.196,
+        low: 1.162,
+        close: 1.167,
+        percent: -2.51
     },
     {
-        date: '2020-02-11',
-        start: 1.029,
-        high: 1.048,
-        low: 1.025,
-        close: 1.037,
-        percent: 0.97
+        date: '2020-11-11',
+        start: 1.159,
+        high: 1.161,
+        low: 1.109,
+        close: 1.112,
+        percent: -4.71
     },
     {
         date: '2020-02-11',
